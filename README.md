@@ -1,6 +1,13 @@
 # GenP_Git
-git clone https://github.com/JiyaVe/GenP_task2
-git clone https://github.com/shachhi/GenP_Git.git
-git remote add GenP_Task https://github.com/JiyaVe/GenP_task
-git fetch GenP_Task main
-git merge GenP_Git/main
+COMMANDS USED IN TASK2
+1.Config command git config --global user.email "your_email@example.com"
+2.Clone Command git clone https://name-of-the-repository-link 
+3.To Add a Branch git branch 
+4. git branch or git branch --list 
+5. git branch -d 
+6. git checkout
+7. git status
+8. git add 
+9. git add -A
+10.git commit -m "commit message" 
+11. git push
